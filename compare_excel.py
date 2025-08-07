@@ -82,7 +82,7 @@ def compare_excel_sheets(file_path, sheet1_name, sheet2_name):
     print("Выполнение завершено!")
 
 # Параметры
-file_path = 'C:/python/exel_compare/data.xlsx'  # Укажите полный путь к вашему файлу
+file_path = 'data.xlsx'  # Укажите полный путь к вашему файлу
 sheet1_name = 'List1'    # Имя первого листа
 sheet2_name = 'List2'    # Имя второго листа
 
