@@ -26,5 +26,6 @@ pip install pandas openpyxl
 
 Убедитесь, что ваш Excel-файл содержит два листа (например, List1 и List2) с данными в первом столбце (A).
 
-file_path: полный путь к вашему .xlsx файлу (например, C:/Users/YourName/Documents/data.xlsx), можно просто положить файл в директорию со скриптом
+file_path: полный путь к вашему .xlsx файлу (например, C:/Users/YourName/Documents/data.xlsx), можно просто положить файл в директорию со скриптом.
+
 sheet1_name и sheet2_name: имена листов (например, List1, List2).
